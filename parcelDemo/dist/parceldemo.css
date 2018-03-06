@@ -1,0 +1,7 @@
+.main {
+    /* 引用一个 image 文件 */
+    width:300px;
+    height:300px;
+    background: url('05270c47bf91e72e3b0614a6882021ca.jpg');
+    color: red;
+}
